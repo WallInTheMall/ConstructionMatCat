@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83d3d62c-81ec-429b-abf7-b2443edb311d" name="Changes" comment="Проверка" />
+    <list default="true" id="83d3d62c-81ec-429b-abf7-b2443edb311d" name="Changes" comment="Проверка">
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/cat/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/cat/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/dog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/dog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/dog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/dog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/dog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/dog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/dog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/dog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/Cat/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/cat/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/Cat/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/cat/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/Cat/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/cat/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/Cat/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/cat/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/Cat/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/cat/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/Cat/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/cat/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/Cat/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/Cat/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/ConstructionMatCat/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/ConstructionMatCat/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +131,17 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
