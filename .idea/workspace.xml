@@ -5,24 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83d3d62c-81ec-429b-abf7-b2443edb311d" name="Changes" comment="Заменил Cat на cat, добавил dog">
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/animals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/animals/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/animals/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/animals/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/animals/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/animals/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/animals/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/animals/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/mouse/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/mouse/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/mouse/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/mouse/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/mouse/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/mouse/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/mouse/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/mouse/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/wheasel/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/wheasel/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/wheasel/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/wheasel/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/wheasel/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/wheasel/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/wheasel/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionMatCat/wheasel/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ConstructionMatCat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ConstructionMatCat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConstructionMatCat/ConstructionMatCat/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/ConstructionMatCat/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConstructionMatCat/ConstructionMatCat/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionMatCat/ConstructionMatCat/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +37,24 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "WallInTheMall"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1cb0f74a-c9bc-4ca1-839f-77287d03b50c" />
+        <option name="url" value="https://github.com/WallInTheMall/ConstructionMatCat.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -56,15 +67,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/79312/OneDrive/Documents/CMC/ConstructionMatCat&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ConstructionMatCat" />
@@ -79,6 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -104,6 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710700131835</updated>
+      <workItem from="1711307703520" duration="731000" />
     </task>
     <task id="LOCAL-00001" summary="Удалось запустить!">
       <option name="closed" value="true" />
@@ -139,6 +160,9 @@
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

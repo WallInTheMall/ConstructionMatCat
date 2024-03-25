@@ -22,5 +22,6 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("dogs/", include("dog.urls")),
     path("mice/", include("mouse.urls")),
-    path("", include("animals.urls"))
+    path("", include("animals.urls")),
+    path("wheasel/", include("wheasel.urls"))
 ]
